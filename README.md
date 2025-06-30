@@ -1,2 +1,2 @@
 # Simon
-This is my Simon repository
+This is my Simon repository.
